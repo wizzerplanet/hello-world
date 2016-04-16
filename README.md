@@ -1,2 +1,3 @@
 # hello-world
-Trying out github
+#Python program
+print("Hello world")
